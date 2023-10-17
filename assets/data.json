@@ -1,0 +1,4 @@
+[
+  {"name": "John Doe", "age": 25, "profileImageUrl": "https://example.com/profiles/john.jpg"},
+  {"name": "Jane Doe", "age": 30, "profileImageUrl": "https://example.com/profiles/jane.jpg"}
+]
